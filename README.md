@@ -1,5 +1,4 @@
-<!-- Banner asset: assets/profile-banner.png (upload required before enabling the image) -->
-<!-- <p align="center"><img src="assets/profile-banner.png" alt="Pinchpeach — Astronomy · AI · Research · Data Analysis" width="100%"></p> -->
+<p align="center"><img src="profile-banner.png" alt="Pinchpeach — Astronomy · AI · Research · Data Analysis" width="100%"></p>
 
 <h1 align="center">Hi, I'm Jiwoong 👋</h1>
 <p align="center"><strong>Research-Oriented Developer</strong><br>Astronomy · Machine Learning · Scientific Computing</p>
