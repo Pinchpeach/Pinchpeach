@@ -11,8 +11,6 @@ Astronomy · Machine Learning · Scientific Computing
 [![Repositories](https://img.shields.io/badge/Explore-Repositories-315C9D?style=flat-square&logo=github&logoColor=white)](https://github.com/Pinchpeach?tab=repositories)
 
 
----
-
 ## About Me
 
 I'm a developer interested in exploring scientific problems through **computational methods, machine learning, and data analysis**.
