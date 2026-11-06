@@ -2,7 +2,7 @@
 
 <img align="right" src="file_0000000029248206bf8865bb3886dbee.png" alt="Pinchpeach waving character" width="190">
 
-# Hi, I'm CHOI 👋
+<p><strong><big><big>Hi, I'm CHOI 👋</big></big></strong></p>
 
 **Research-Oriented Developer**  
 Astronomy · Machine Learning · Scientific Computing
