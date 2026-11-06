@@ -17,12 +17,10 @@ I'm a developer interested in exploring scientific problems through **computatio
 
 My primary interests lie in astronomical data analysis, scientific software development, and research automation. I enjoy transforming theoretical concepts into practical tools and reproducible computational workflows.
 
-| | |
-|---|---|
-| **Primary Fields** | Astronomy, Machine Learning, Data Science |
-| **Research Interests** | Astronomical Classification, Numerical Methods, Scientific Computing |
-| **Development Interests** | Research Automation, AI Systems, Data Visualization |
-| **Current Focus** | Multi-Wavelength Astronomy & Academic Research Tools |
+- **Primary Fields** · Astronomy · Machine Learning · Data Science
+- **Research Interests** · Astronomical Classification · Numerical Methods · Scientific Computing
+- **Development Interests** · Research Automation · AI Systems · Data Visualization
+- **Current Focus** · Multi-Wavelength Astronomy · Academic Research Tools
 
 ## Languages & Technologies
 
