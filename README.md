@@ -1,6 +1,6 @@
 <p align="center"><img src="profile-banner.png" alt="Pinchpeach — Astronomy · AI · Research · Data Analysis" width="100%"></p>
 
-# Hi, I'm CHOI 👋
+# Hi, I'm CHOI
 
 <img align="right" src="file_0000000029248206bf8865bb3886dbee.png" alt="Pinchpeach waving character" width="145">
 
