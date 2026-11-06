@@ -1,4 +1,4 @@
-<-- Banner image: assets/profile-banner.png (pending upload). Uncomment after upload.-->
+<!-- Banner image: assets/profile-banner.png (pending upload). Uncomment after upload.-->
 <!-- <p align="center"><img src="assets/profile-banner.png" alt="Pinchpeach — Astronomy · AI · Research · Data Analysis" width="100%"></p> -->
 
 # Hi, I'm Jiwoong 👋
