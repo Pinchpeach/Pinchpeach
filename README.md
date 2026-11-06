@@ -1,12 +1,20 @@
 <p align="center"><img src="profile-banner.png" alt="Pinchpeach — Astronomy · AI · Research · Data Analysis" width="100%"></p>
 
-<h1 align="center">Hi, I'm CHOI 👋</h1>
-<p align="center"><strong>Research-Oriented Developer</strong><br>Astronomy · Machine Learning · Scientific Computing</p>
-
-<p align="center">
-  <a href="https://github.com/Pinchpeach"><img src="https://img.shields.io/badge/GitHub-Pinchpeach-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://github.com/Pinchpeach?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-315C9D?style=flat-square&logo=github&logoColor=white" alt="Repositories"></a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="66%" valign="middle" align="left">
+      <h1>Hi, I'm CHOI 👋</h1>
+      <p><strong>Research-Oriented Developer</strong><br>Astronomy · Machine Learning · Scientific Computing</p>
+      <p>
+        <a href="https://github.com/Pinchpeach"><img src="https://img.shields.io/badge/GitHub-Pinchpeach-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+        <a href="https://github.com/Pinchpeach?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-315C9D?style=flat-square&logo=github&logoColor=white" alt="Repositories"></a>
+      </p>
+    </td>
+    <td width="34%" valign="middle" align="center">
+      <img src="file_00000000fd3c8206aa5248554e1fe474.png" alt="Pinchpeach waving character" width="180">
+    </td>
+  </tr>
+</table>
 
 ---
 
