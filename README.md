@@ -1,12 +1,24 @@
 <p align="center"><img src="profile-banner.png" alt="Pinchpeach — Astronomy · AI · Research · Data Analysis" width="100%"></p>
 
-<h1 align="center">Hi, I'm Jiwoong 👋</h1>
-<p align="center"><strong>Research-Oriented Developer</strong><br>Astronomy · Machine Learning · Scientific Computing</p>
-
-<p align="center">
-  <a href="https://github.com/Pinchpeach"><img src="https://img.shields.io/badge/GitHub-Pinchpeach-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://github.com/Pinchpeach?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-315C9D?style=flat-square&logo=github&logoColor=white" alt="Repositories"></a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="66%" valign="middle" align="left">
+      <h1>Hi, I'm Choi 👋</h1>
+      <p><strong>Research-Oriented Developer</strong><br>
+      Astronomy · Machine Learning · Scientific Computing</p>
+      <p>
+        <a href="https://github.com/Pinchpeach"><img src="https://img.shields.io/badge/GitHub-Pinchpeach-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+        <a href="https://github.com/Pinchpeach?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-315C9D?style=flat-square&logo=github&logoColor=white" alt="Repositories"></a>
+      </p>
+    </td>
+    <td width="34%" valign="middle" align="center">
+      <!-- Character slot: replace the placeholder with
+      <img src="assets/profile-character.png" alt="Profile character" width="180">
+      when the artwork is ready. -->
+      <em>Character illustration<br>coming soon</em>
+    </td>
+  </tr>
+</table>
 
 ---
 
