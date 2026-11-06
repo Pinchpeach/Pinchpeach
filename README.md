@@ -64,7 +64,7 @@ My primary interests lie in astronomical data analysis, scientific software deve
 
 **Multi-Wavelength Astronomical Object Detection & Classification**
 
-<!-- Optional project image: assets/finding-objects.png -->
+<p align="center"><img src="app_demo_v2.44.gif" alt="Finding_objects application demo" width="85%"></p>
 
 A scientific software system for identifying and classifying astronomical objects using observational data from radio to X-ray wavelengths.
 
