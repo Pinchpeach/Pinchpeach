@@ -84,7 +84,7 @@ A scientific software system for identifying and classifying astronomical object
 
 **Academic Literature Discovery & Research Evolution Visualization**
 
-<!-- Optional project image: assets/research-radar.png -->
+<p align="center"><img src="research-radar-demo.gif" alt="Research Radar application demo" width="85%"></p>
 
 A cross-platform research application for discovering academic literature, identifying foundational publications, and visualizing the evolution of scientific fields.
 
