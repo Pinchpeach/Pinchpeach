@@ -1,6 +1,6 @@
 <p align="center"><img src="profile-banner.png" alt="Pinchpeach — Astronomy · AI · Research · Data Analysis" width="100%"></p>
 
-<h1 align="center">Hi, I'm Jiwoong 👋</h1>
+<h1 align="center">Hi, I'm CHOI 👋</h1>
 <p align="center"><strong>Research-Oriented Developer</strong><br>Astronomy · Machine Learning · Scientific Computing</p>
 
 <p align="center">
